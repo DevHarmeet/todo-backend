@@ -15,7 +15,7 @@ A RESTful API built with Express.js and TypeScript, using Prisma ORM with MySQL.
 1. **Clone and Install**
 
 ```
-git clone https://github.com/your-repo/todo-backend.git
+git clone https://github.com/DevHarmeet/todo-backend.git
 cd todo-backend
 npm install
 ```
